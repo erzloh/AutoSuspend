@@ -50,6 +50,7 @@ Edit `config.json` like this:
 - show_popup = true to display a summary pop-up after each sync, false to disable it.
 
 Only decks listed here will be affected.
+Make sure that the json is valid. Check with chatGPT if unsure.
 
 ## Usage
 
