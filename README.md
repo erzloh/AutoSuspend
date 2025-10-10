@@ -8,7 +8,9 @@ AutoSuspend helps reduce daily review load by suspending cards in specified deck
 
 ## Context
 
-For context, I'm learning Japanese and I made this add-on for myself as I was getting tired of daily endless Anki reviews (1h+). All the time I'm spending reviewing old cards could be better spent immersing and hence being exposed to words **while enjoying content**. Of course, Anki is great and it works but I'm a bit sick of it now after years of use. The idea behind this add-on is to help me learn new words by reviewing them but only in a limited time window (1 week) such that I don't get overwhelmed by too many reviews. I see it as a little help to be more familiar with new words than just seeing them once when I learn for the first time. After that, I can just encounter them in the wild and learn them naturally. It's ok if I forget them after a week, the idea is to focus on being exposed to words in context rather than memorizing them in Anki forever. 
+For context, I'm learning Japanese and I made this add-on for myself as I was getting tired of daily endless Anki reviews (1h+). All the time I'm spending reviewing old cards could be better spent immersing and hence being exposed to words **while enjoying content**. Of course, Anki is great and it works but I'm a bit sick of it now after years of use. The idea behind this add-on is to help me learn new words by reviewing them but only in a limited time window (1 week) such that I don't get overwhelmed by too many reviews. I see it as a little help to be more familiar with new words. After that, I can just encounter them in the wild and learn them naturally. It's ok if I forget them after a week, the idea is to focus on being exposed to words in context rather than memorizing them in Anki forever. If I get enough immersion, daily life is actually the most enjoyable SRS!
+
+I was inspired by [MattVsJapan's video](https://youtu.be/u3sqHvdpBwM?si=JnWrAofiknKpGEuN) to make this add-on.
 
 
 ---
