@@ -33,7 +33,7 @@ else:
                 FROM cards c
                 JOIN decks d ON c.did = d.id
                 WHERE d.name = ?
-                  AND c.mod < ?
+                  AND (c.id / 1000) < ?
                   AND c.queue != -1
             """
             cids = col.db.list(query, deck_name, cutoff_ts)
